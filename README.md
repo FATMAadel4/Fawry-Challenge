@@ -48,6 +48,31 @@ It is an e-commerce system with these features:
 - Shipping weight is calculated only for shippable products.
 
 ---
+## 📸 Screenshots of Corner Cases
+
+### 1️⃣ Empty Cart Error
+![Empty Cart Error](screenshots/empty_cart_error.png)
+
+---
+
+### 2️⃣ Expired Product Error
+![Expired Product Error](screenshots/expired_product_error.png)
+
+---
+
+### 3️⃣ Insufficient Stock Error
+![Insufficient Stock Error](screenshots/insufficient_stock_error.png)
+
+---
+
+### 4️⃣ Insufficient Balance Error
+![Insufficient Balance Error](screenshots/insufficient_balance_error.png)
+
+---
+
+### 5️⃣ Valid Checkout Output
+![Valid Checkout Output](screenshots/full_checkout_output.png)
+
 
 ## Example Code
 ```java
